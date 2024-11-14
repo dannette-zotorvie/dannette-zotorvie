@@ -2,7 +2,7 @@
 
 A passionate Data/Health Analyst from Accra-Ghana
 
-- 🔭 I’m currently working on discussing new professional roles
+- 🔭 I’m currently open to discussing new professional roles
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Data Analytics projects
 - 💬 Ask me about Python, Advanced Excel, SQL, Power BI
