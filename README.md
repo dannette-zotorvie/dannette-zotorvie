@@ -2,10 +2,10 @@
 
 A passionate Data/Health Analyst from Accra-Ghana
 
-- 🔭 I’m currently open to discussing new professional roles
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Data Analytics projects
-- 💬 Ask me about Python, Advanced Excel, SQL, Power BI
-- 📫 How to reach me: dannettezoterial@gmail.com
-- ⚡ Fun fact: I'm most active during odd hours—consider me your personal night owl
+- 🔭 Excited to explore new professional opportunities! Let’s connect.
+- 🌱 Always growing: Currently diving deep into Machine Learning.
+- 👯 Collaborations welcome: I’m keen to team up on innovative Data Analytics projects.
+- 💬Talk to me about: Python, Advanced Excel, SQL, Power BI—let’s solve problems together!
+- 📫 Reach out anytime: dannettezoterial@gmail.com
+- ⚡ Fun twist: Sleeping is a luxury to me—I thrive on late-night productivity and boundless curiosity.
 
