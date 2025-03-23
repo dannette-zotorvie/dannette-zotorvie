@@ -7,5 +7,5 @@ A passionate Data/Health Analyst from Accra-Ghana
 - 👯 Collaborations welcome: I’m keen to team up on innovative Data Analytics and AI-driven projects.
 - 💬Talk to me about: Python, Advanced Excel, SQL, Power BI—let’s solve problems together!
 - 📫 Reach out anytime: dannettezoterial@gmail.com
-- ⚡ Fun twist: Sleeping is a luxury to me—I thrive on late-night productivity and boundless curiosity.
+- ⚡ Fun twist: Skincare is the language my soul speaks best!
 
